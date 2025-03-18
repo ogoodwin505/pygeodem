@@ -7,8 +7,10 @@ This repository contains the workflow for producing a geodemographic classificat
 - **Requirements:** Dependencies are listed in `requirements.txt`  
 - **Example data:** `example_oacdata.csv`  
 
-## Setup  
+## Setup (dependencies)
+The dependencies can be installed from inside the notebook.
 
+Alternatively;
 ### Using `pip` and a virtual environment  
 Create and activate a virtual environment:  
 ```bash
@@ -17,4 +19,3 @@ source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-Alternatively if using a cloud enviroment (eg google collab) the dependencies can be installed from inside the notebook.
