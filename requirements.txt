@@ -2,4 +2,4 @@ pandas
 clustergram
 scikit-learn
 matplotlib
-seaborn
+jupyter
