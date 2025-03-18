@@ -15,3 +15,6 @@ Create and activate a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
+```
+
+Alternatively if using a cloud enviroment (eg google collab) the dependencies can be installed from inside the notebook.
